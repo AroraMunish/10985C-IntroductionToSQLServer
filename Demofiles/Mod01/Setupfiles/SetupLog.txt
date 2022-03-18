@@ -1,0 +1,48 @@
+Changed database context to 'master'.
+Processed 36960 pages for database 'AdventureWorks2016', file 'AdventureWorks2016_Data' on file 1.
+Processed 657 pages for database 'AdventureWorks2016', file 'AdventureWorks2016_Log' on file 1.
+Processed 2216 pages for database 'AdventureWorks2016', file 'AdventureWorks2016_mod' on file 1.
+Converting database 'AdventureWorks2016' from version 852 to the current version 869.
+Database 'AdventureWorks2016' running the upgrade step from version 852 to version 853.
+Database 'AdventureWorks2016' running the upgrade step from version 853 to version 854.
+Database 'AdventureWorks2016' running the upgrade step from version 854 to version 855.
+Database 'AdventureWorks2016' running the upgrade step from version 855 to version 856.
+Database 'AdventureWorks2016' running the upgrade step from version 856 to version 857.
+Database 'AdventureWorks2016' running the upgrade step from version 857 to version 858.
+Database 'AdventureWorks2016' running the upgrade step from version 858 to version 859.
+Database 'AdventureWorks2016' running the upgrade step from version 859 to version 860.
+Database 'AdventureWorks2016' running the upgrade step from version 860 to version 861.
+Database 'AdventureWorks2016' running the upgrade step from version 861 to version 862.
+Database 'AdventureWorks2016' running the upgrade step from version 862 to version 863.
+Database 'AdventureWorks2016' running the upgrade step from version 863 to version 864.
+Database 'AdventureWorks2016' running the upgrade step from version 864 to version 865.
+Database 'AdventureWorks2016' running the upgrade step from version 865 to version 866.
+Database 'AdventureWorks2016' running the upgrade step from version 866 to version 867.
+Database 'AdventureWorks2016' running the upgrade step from version 867 to version 868.
+Database 'AdventureWorks2016' running the upgrade step from version 868 to version 869.
+RESTORE DATABASE successfully processed 39833 pages in 8.133 seconds (38.262 MB/sec).
+Msg 15151, Level 16, State 1, Server DATA-AI, Line 1
+Cannot find the principal 'ADVENTUREWORKS\Student', because it does not exist or you do not have permission.
+Processed 186680 pages for database 'AdventureWorksDW2016', file 'AdventureWorksDW2016_Data' on file 1.
+Processed 2 pages for database 'AdventureWorksDW2016', file 'AdventureWorksDW2016_Log' on file 1.
+Converting database 'AdventureWorksDW2016' from version 852 to the current version 869.
+Database 'AdventureWorksDW2016' running the upgrade step from version 852 to version 853.
+Database 'AdventureWorksDW2016' running the upgrade step from version 853 to version 854.
+Database 'AdventureWorksDW2016' running the upgrade step from version 854 to version 855.
+Database 'AdventureWorksDW2016' running the upgrade step from version 855 to version 856.
+Database 'AdventureWorksDW2016' running the upgrade step from version 856 to version 857.
+Database 'AdventureWorksDW2016' running the upgrade step from version 857 to version 858.
+Database 'AdventureWorksDW2016' running the upgrade step from version 858 to version 859.
+Database 'AdventureWorksDW2016' running the upgrade step from version 859 to version 860.
+Database 'AdventureWorksDW2016' running the upgrade step from version 860 to version 861.
+Database 'AdventureWorksDW2016' running the upgrade step from version 861 to version 862.
+Database 'AdventureWorksDW2016' running the upgrade step from version 862 to version 863.
+Database 'AdventureWorksDW2016' running the upgrade step from version 863 to version 864.
+Database 'AdventureWorksDW2016' running the upgrade step from version 864 to version 865.
+Database 'AdventureWorksDW2016' running the upgrade step from version 865 to version 866.
+Database 'AdventureWorksDW2016' running the upgrade step from version 866 to version 867.
+Database 'AdventureWorksDW2016' running the upgrade step from version 867 to version 868.
+Database 'AdventureWorksDW2016' running the upgrade step from version 868 to version 869.
+RESTORE DATABASE successfully processed 186682 pages in 50.713 seconds (28.758 MB/sec).
+Msg 15151, Level 16, State 1, Server DATA-AI, Line 1
+Cannot find the principal 'ADVENTUREWORKS\Student', because it does not exist or you do not have permission.
